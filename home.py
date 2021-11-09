@@ -1,5 +1,5 @@
 a=1
 b=2
-
-c=a+1
-print(c)
+c=3
+d=a+b+c
+print(d)
